@@ -8,7 +8,7 @@
     "eventGridTopicEndpoint": "",
     "eventGridTopicKey": "",
     "cosmosDBEndPointUrl": "",
-    "cosmosDBAuthorizationKey": "test",
+    "cosmosDBAuthorizationKey": "testtest",
     "cosmosDBDatabaseId": "LicensePlates",
     "cosmosDBCollectionId": "Processed",
     "exportCsvContainerName": "export",
